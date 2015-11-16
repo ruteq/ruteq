@@ -1,4 +1,4 @@
 # ruteq
 test dev repository
-Project description entry
-and etc.
+New project initialization
+# new 
